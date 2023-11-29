@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "p0kCGeQ3vbcCkowXZEFfe/1fueyUCQLd3IMXMZJ3/vbWrVN6ME7i6Lt6syAN7bpztHsBFWjTKoQzX4Wv45YzTQ==",
+  "dgSpecHash": "qTl0XH6YAMA67/V4MVifFLce9xBBvq/oP5aSIB80araSP7neCHveb/GtwaK6/MrsYvwTAuTcEFUecJi1ozTihg==",
   "success": true,
-  "projectFilePath": "E:\\DEVELOPMENT\\Git-School\\Notes\\Notes\\Notes\\Notes.csproj",
+  "projectFilePath": "C:\\DEVELOPMENT\\Git-School\\BasicMobileApp1\\Notes\\Notes\\Notes.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\BlackBox\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\BlackBox\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\BlackBox\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\BlackBox\\.nuget\\packages\\xamarin.essentials\\1.7.5\\xamarin.essentials.1.7.5.nupkg.sha512",
-    "C:\\Users\\BlackBox\\.nuget\\packages\\xamarin.forms\\5.0.0.2578\\xamarin.forms.5.0.0.2578.nupkg.sha512"
+    "C:\\Users\\ajrke\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ajrke\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ajrke\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ajrke\\.nuget\\packages\\xamarin.essentials\\1.7.5\\xamarin.essentials.1.7.5.nupkg.sha512",
+    "C:\\Users\\ajrke\\.nuget\\packages\\xamarin.forms\\5.0.0.2578\\xamarin.forms.5.0.0.2578.nupkg.sha512"
   ],
   "logs": []
 }

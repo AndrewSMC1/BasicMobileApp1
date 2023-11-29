@@ -1064,24 +1064,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BlackBox\\.nuget\\packages\\": {},
+    "C:\\Users\\ajrke\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DEVELOPMENT\\Git-School\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
+      "projectUniqueName": "C:\\DEVELOPMENT\\Git-School\\BasicMobileApp1\\Notes\\Notes.iOS\\Notes.iOS.csproj",
       "projectName": "Notes.iOS",
-      "projectPath": "E:\\DEVELOPMENT\\Git-School\\Notes\\Notes\\Notes.iOS\\Notes.iOS.csproj",
-      "packagesPath": "C:\\Users\\BlackBox\\.nuget\\packages\\",
-      "outputPath": "E:\\DEVELOPMENT\\Git-School\\Notes\\Notes\\Notes.iOS\\obj\\",
+      "projectPath": "C:\\DEVELOPMENT\\Git-School\\BasicMobileApp1\\Notes\\Notes.iOS\\Notes.iOS.csproj",
+      "packagesPath": "C:\\Users\\ajrke\\.nuget\\packages\\",
+      "outputPath": "C:\\DEVELOPMENT\\Git-School\\BasicMobileApp1\\Notes\\Notes.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\BlackBox\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ajrke\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1095,8 +1095,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "E:\\DEVELOPMENT\\Git-School\\Notes\\Notes\\Notes\\Notes.csproj": {
-              "projectPath": "E:\\DEVELOPMENT\\Git-School\\Notes\\Notes\\Notes\\Notes.csproj"
+            "C:\\DEVELOPMENT\\Git-School\\BasicMobileApp1\\Notes\\Notes\\Notes.csproj": {
+              "projectPath": "C:\\DEVELOPMENT\\Git-School\\BasicMobileApp1\\Notes\\Notes\\Notes.csproj"
             }
           }
         }
